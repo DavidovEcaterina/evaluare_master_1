@@ -1,2 +1,5 @@
 def calculate_sum(a, b):
-    return a + b - 1
+    return a + b
+
+def get_message():
+    return "Hello, world!"
